@@ -1,0 +1,1 @@
+data = [f".dropping-texts > div:nth-child({i+1}) Xanimation: roll 200s linear infinite {i}s;Y".replace('X','{').replace('Y','}') for i in range(200)]
