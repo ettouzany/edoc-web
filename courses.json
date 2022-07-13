@@ -11,13 +11,13 @@
     },
     {
         "id":1,
-        "course":"learn Javascript",
-        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
-        "disc":"disc",
-        "link":"",
-        "link-playstore":"",
-        "link-appstore":"",
-        "link-huawei":""
+        "course":"learn HTML",
+        "img":"https://play-lh.googleusercontent.com/auJP_b6kyIxuhXiwqCNTKxiGWQdWbYEvZXuy68yTi9ujAC1Eib--hKsXoisphSe9zA=w480-h960-rw",
+        "disc":"Edoc: Learn HTML is a complete offline app that gives a full course for those who want to learn HTML.",
+        "link":"https://edoc-app.netlify.app/app.html",
+        "link-playstore":"https://play.google.com/store/apps/details?id=com.edoc.html",
+        "link-appstore":"https://play.google.com/store/apps/details?id=com.edoc.html",
+        "link-huawei":"https://play.google.com/store/apps/details?id=com.edoc.html"
     },
     {
         "id":2,
