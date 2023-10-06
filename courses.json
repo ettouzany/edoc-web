@@ -52,7 +52,7 @@
     {
         "id":5,
         "course":"learn React",
-        "img":"https://play-lh.googleusercontent.com/5HeHbleVnLACI9pd9poG2e68sox_acLCXMgbAUFxjdPqHrTTqLzgZdAZfLwUKRUQDVg=s360-rw",
+        "img":"https://play-lh.googleusercontent.com/ESzwLPfv5Tgibpzdj0wFbrbDlePZtqxFkluvJiPBWJ3u1ub5HZUgd_bU02VEDnK4A5k=w480-h960-rw",
         "disc":"Edoc: Learn CSS is a complete offline app that gives a full course for those who want to learn React.",
         "link":"https://edoc-app.netlify.app/app.html",
         "link-playstore":"https://play.google.com/store/apps/details?id=com.edoc.react",
@@ -72,11 +72,11 @@
     {
         "id":7,
         "course":"learn Python",
-        "img":"https://play-lh.googleusercontent.com/5HeHbleVnLACI9pd9poG2e68sox_acLCXMgbAUFxjdPqHrTTqLzgZdAZfLwUKRUQDVg=s360-rw",
+        "img":"https://play-lh.googleusercontent.com/ftNBKu5KYXkD_ueBh3BcTyY_mcd-Iv4zzTH49_OKr_Q6w3AASLLJOY1og8wXi3Ln1ds=w480-h960-rw",
         "disc":"Edoc: Learn CSS is a complete offline app that gives a full course for those who want to learn Python.",
         "link":"https://edoc-app.netlify.app/app.html",
         "link-playstore":"https://play.google.com/store/apps/details?id=com.edoc.python",
         "link-appstore":"https://play.google.com/store/apps/details?id=com.edoc.python",
         "link-huawei":"https://play.google.com/store/apps/details?id=com.edoc.python"
-    }
+    },
 ]
