@@ -22,7 +22,7 @@
     {
         "id":2,
         "course":"learn CSS",
-        "img":"https://play-lh.googleusercontent.com/0B1YlXm1mX3Ym8L0Zu5iY0KvYb9Xfzq7G4p2zq5zq9Q8XnWx4YvX3v6Z7r4w9u2XyA=w480-h960-rw",
+        "img":"https://play-lh.googleusercontent.com/bD7k5wSWUwIadMUkkrBfjL0QVlzRhev8zjPUh00XpPCgeZ15Fv6M18HoInu_S62ZKg=w480-h960-rw",
         "disc":"Edoc: Learn CSS is a complete offline app that gives a full course for those who want to learn CSS.",
         "link":"https://edoc-app.netlify.app/app.html",
         "link-playstore":"https://play.google.com/store/apps/details?id=com.edoc.css",
